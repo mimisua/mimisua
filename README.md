@@ -1,1 +1,2 @@
-<img src="https://github.com/mimisua/mimisua/blob/24efdfb0623996406b98bb452e0e004a75a1dd9b/Guest_of_Honor.webp" width="185">
+<p align="center"><img src="https://github.com/mimisua/mimisua/blob/24efdfb0623996406b98bb452e0e004a75a1dd9b/Guest_of_Honor.webp" width="185">
+
