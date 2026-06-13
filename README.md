@@ -2,3 +2,4 @@
 <p align="center"><img src="https://github.com/mimisua/mimisua/blob/24efdfb0623996406b98bb452e0e004a75a1dd9b/Guest_of_Honor.webp" width="185">
 <p align="center"> ${\textsf{\color{#9658d1}𝗔𝗺𝗲𝗹𝗶𝗮}}$‎ ⠀ ₍՞-.-՞₎˖ ࣪⊹‎ ⠀ ${\textsf{\color{#9658d1}𝐓𝐡𝐞𝐲}}$ ${\textsf{\color{#fac55a}/}}$ ${\textsf{\color{#9658d1}𝐓𝐡𝐞𝐦}}$
 <p align="center"><img src="https://github.com/mimisua/mimisua/blob/92529a0f9fa65a027503be3eb04f4ccb479c5b79/tumblr_1866877049e3e0c9b03e20c3f6a306ad_d461c5bb_75.gif" width="20">‎  <a href="https://honey.atabook.org/">atabk</a>
+<img src="https://img.shields.io/badge/dolls%20-%20purple%20" width="20"> 42
