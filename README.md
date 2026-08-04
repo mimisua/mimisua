@@ -4,5 +4,5 @@
 <p align="center"> ${\textsf{\color{#a675a2}links}}$⠀ ${\textsf{\color{#fecbce}‎ᵔ ˲ ̫ ˱ ᵔ₎}}$ ⠀<a href="https://honey.atabook.org/" style="color:#a675a2;">atabk</a> ⠀.⠀ <a href="https://guns.lol/mimisua" style="color:#a675a2;">guns</a>
 
 <details align="center">
-  <summary>${\color{#a675a2}\text{ac!}}$</summary>
+  <summary>${\color{#fecbce}\text{ac!}}$</summary>
 ${\textsf{\color{#d1bad6}icon @tozzxc on tumblr⠀⠀rep @wekkoowo on pint}}$‎ </details>
