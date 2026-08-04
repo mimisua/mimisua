@@ -3,5 +3,4 @@
 <p align="center"> ${\textsf{\color{#a675a2}links}}$‎⠀ ${\textsf{\color{#fecbce}‎ᵔ ˲ ̫ ˱ ᵔ₎}}$ ⠀<a href="https://honey.atabook.org/">atabk</a> ⠀.⠀ <a href="https://guns.lol/mimisua">guns</a>
 <details align="center">
   <summary>${\color{#a675a2}\text{click on me!}}$</summary>
-</details>
-hi
+hi </details>
