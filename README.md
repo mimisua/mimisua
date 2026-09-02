@@ -5,4 +5,4 @@
 
 <details align="center">
   <summary>${\color{#fecbce}\text{ac!}}$</summary>
-${\textsf{\color{#d1bad6}icon @tozzxc on tumblr⠀⠀rep @wekkoowo on pint}}$‎ </details>
+${\textsf{\color{#d1bad6}icon @tozzxc on tumblr}}$‎ </details>
