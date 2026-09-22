@@ -2,7 +2,7 @@
 <p align="center">❤︎ .  ݁ ˖⠀<img src="https://hits.sh/github.com/mimisua.svg?label=confetti&color=3265bd&labelColor=f11f38"width="90">
 <p align="center"> <img src="https://github.com/mimisua/mimisua/blob/1eef7c786da382c3f57249e8192f442b0b574c83/%40%20honeykrispapple%20on%20pinterest.png"width="180">
 <sub>
-<p align="center">${\textsf{\color{#fcda5f}links}}$ :⠀⠀atabk⠀.⠀guns⠀‎ᵔ ˲ ̫ ˱ ᵔ₎
+<p align="center">${\textsf{\color{#fcda5f}links}}$ ${\textsf{\color{#f11f38}:}}$⠀⠀atabk⠀.⠀guns⠀‎ᵔ ˲ ̫ ˱ ᵔ₎
 <details align="center">
 <summary>ac!</summary>
 test </details>
