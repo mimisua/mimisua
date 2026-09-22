@@ -1,6 +1,6 @@
 <p align="center"> <sub> ${\textsf{\color{#bc9caa}view on light mode}}$‎ </sub>
-<p align="center"> <img src="https://hits.sh/github.com/mimisua.svg?label=confetti&color=303277&labelColor=901533"> 
 <p align="center"> <img src="https://github.com/mimisua/mimisua/blob/1eef7c786da382c3f57249e8192f442b0b574c83/%40%20honeykrispapple%20on%20pinterest.png" width="160">
+<p align="center"> <img src="https://hits.sh/github.com/mimisua.svg?label=confetti&color=303277&labelColor=b30430">
 <p align="center"> ${\textsf{\color{#dbd8d3}links}}$⠀ ${\textsf{\color{#bc9caa}‎ᵔ ˲ ̫ ˱ ᵔ₎}}$ ⠀<a href="https://honey.atabook.org/" style="color:#a675a2;">atabk</a> ⠀.⠀ <a href="https://guns.lol/mimisua" style="color:#a675a2;">guns</a>
 
 <details align="center">
