@@ -3,4 +3,4 @@
 
 <details align="center">
   <summary>${\color{black}\text{ac!}}$</summary>
-${\textsf{\color{#dbd8d3}icon @ruesucre on insta}}$‎ </details>
+${\textsf{\color{#dbd8d3}icon @ruesucre on insta}}$‎"width="90"> </details>
