@@ -4,5 +4,5 @@
 <sub>
 <p align="center">${\textsf{\color{#c7e343}links}}$ ${\textsf{\color{#3265bd}:}}$⠀⠀<a href="https://honey.atabook.org/">atabk</a>⠀.⠀<a href="https://guns.lol/mimisua">guns</a>⠀⠀‎𐔌՞ ᵔ ᵔ՞𐦯
 <details align="center">
-<summary>ac!</summary>
-icon @dyxamite on tt ♡ rep @honeykrispapple on pint </details>
+<summary>${\textsf{\color{#f11f38}ac!}}$</summary>
+${\textsf{\color{#3265bd}icon @dyxamite on tt ♡ rep @honeykrispapple on pint}}$ </details>
